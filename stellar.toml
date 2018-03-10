@@ -1,0 +1,9 @@
+[[CURRENCIES]]
+code="4KC"
+issuer="GCACDDGWYYKXYQF4VWQMDOH2WGAIN3XV3D6QVRXZ6I726LCKDSB64X2Y"
+conditions = "There will only ever be 123,456,789 4KC."
+display_decimals=7
+name="4KCam"
+desc="4KCam by The Strawberry Man https://4kcam.info"
+image="https://4kcam.info/4KC.png"
+
